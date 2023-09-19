@@ -1,0 +1,40 @@
+/* .app {
+    background-image: url(https://reactjs.org/logo-og.png);
+} */
+
+body {
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.image-container {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .left-image, .right-image {
+    flex: 1;
+    max-width: 100%;
+    height: auto;
+    transition: transform 0.3s ease-in-out;
+    border-radius: 10px;
+    /* margin: 10px 0px 0px 15px; */
+  }
+  .left-image{
+    margin: 50px 0px 60px 15px;
+  }
+  .right-image {
+    margin: 50px 15px 60px 0px;
+  }
+
+  .left-image:hover,
+  .right-image:hover {
+    transform: scale(1.05);
+    /* border-radius: 10px; */
+  }
+
+
+  
+
+
+
+  

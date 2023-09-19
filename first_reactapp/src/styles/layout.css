@@ -1,0 +1,9 @@
+.grid-container {
+    display: grid;
+    grid-template-areas:
+      "navbar"
+      "content"
+      "footer";
+    grid-template-rows: auto 1fr auto; /* Adjust the row sizes as needed */
+    min-height: 110vh; /* Set a minimum height to cover the entire viewport */
+  }

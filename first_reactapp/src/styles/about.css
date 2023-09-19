@@ -1,0 +1,97 @@
+
+body {
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.image-container {
+    margin: 20px 0px 20px 20px;
+}
+
+.text-container {
+    font-size: 30px;
+    margin: 5em 70px 20px 50px;
+  }
+
+.side-image {
+    border-radius: 5px;
+    margin-right: 20px;
+    width: 500px;
+    height: auto;
+}
+
+.side-text {
+    font-size: 20px;
+    text-align: justify;
+
+}
+
+.upper-section {
+    margin: 50px 0px 0px 30px;
+    border-bottom: 1px solid lightgray;
+}
+
+.upper-section-text,
+.upper-section-header {
+    text-align: left;
+    margin-left: 30px;
+    margin: 0px;
+}
+
+.upper-section-header {
+    text-align: left;
+    font-weight: 400;
+    font-size: inherit;
+    text-transform: uppercase;
+
+}
+
+.upper-section-text {
+    text-transform: uppercase;
+    font-size: 40px;
+}
+/* .chanelBagImage {
+    display: block;
+    margin: 0 auto;
+} */
+
+@media (max-width: 768px) {
+    .image-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 20px 0;
+    }
+  
+    .text-container {
+      font-size: 20px;
+      margin: 2em 20px;
+    }
+  
+    .side-image {
+      margin-right: 0;
+      height: 500px;
+      width: auto;
+      align-self: center;
+    }
+  
+    .upper-section {
+      margin: 30px 0 0 15px;
+    }
+  
+    .upper-section-text,
+    .upper-section-header {
+      text-align: center;
+      margin: 0;
+    }
+  
+    .upper-section-header {
+      font-size: 30px;
+    }
+  
+    .upper-section-text {
+      font-size: 0px;
+    }
+  }
+
+  
+  

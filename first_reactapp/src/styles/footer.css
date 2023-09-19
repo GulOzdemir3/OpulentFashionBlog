@@ -1,0 +1,11 @@
+
+#footerText {
+    text-align: center;
+    color: white;
+    
+}
+
+.footer, .push {
+    height: 40px; /* .push must be the same height as .footer */
+    background-color: black;
+}
