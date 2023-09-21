@@ -5,7 +5,7 @@ import Homepage from './pages/Homepage';
 import About from './pages/About';
 import Charts from './pages/Charts';
 import Contact from './pages/Contact';
-import DynamicCharts from './components/DynamicCharts';
+// import DynamicCharts from './components/DynamicCharts';
 
 
 function App() {

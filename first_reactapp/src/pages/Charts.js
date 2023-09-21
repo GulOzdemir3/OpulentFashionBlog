@@ -1,6 +1,4 @@
 import React, { useEffect, useState, useRef } from "react";
-// import mediumFlapBag from "../images/mediumFlapBag.png"
-import birkinTogo from "../images/birkinTogo.png"
 import chanelFlap2 from "../images/chanelFlap2.jpeg"
 import birkin35Togo from "../images/birkin35Togo.jpeg"
 import Layout from "../components/Layout";

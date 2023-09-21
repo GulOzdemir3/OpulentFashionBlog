@@ -1,7 +1,6 @@
 import React from "react";
 import Layout from "../components/Layout";
 import "../styles/homepage.css"
-import logo from "../images/logo.png";
 // import outfitOne from "../images/outfitOne.jpeg"
 import outfitTwo from "../images/outfitTwo.png"
 import photMe from "../images/photMe.png"

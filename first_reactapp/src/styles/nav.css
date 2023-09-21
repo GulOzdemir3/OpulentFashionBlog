@@ -46,12 +46,9 @@ body {
 .right-section {
   display: flex;
   flex: 4;
-  list-style-type: none; /* Remove bullet points
-    margin-left: auto; /* Pushes the right section to the right */
-    /* margin-right: 20px; */
+  list-style-type: none; 
   align-items: center;
   justify-content: space-around;
-  /* margin-right: 10px; */
     
   }
 
@@ -65,7 +62,6 @@ body {
 
 .search-icon {
     margin-right: 10px;
-    /* align-items: flex-end; */
     justify-content: flex-end;
   }
 
