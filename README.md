@@ -21,7 +21,7 @@ Search Functionality: Easily search for your favorite fashion brands and items t
 Informative Content: Access detailed information about various fashion brands, including Chanel, Hermes and more.
 
 ## Demo
-Live demo of the Opulent Fashion Website: [Live Demo](#demo)
+Live demo of the Opulent Fashion Website: [Live Demo](#(https://youtu.be/kkUJkES5T2s))
 
 ## Getting Started
 ### Prerequisites
